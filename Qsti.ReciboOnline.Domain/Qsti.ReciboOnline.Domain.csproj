@@ -1,0 +1,82 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup Label="Globals">
+		<SccProjectName>SAK</SccProjectName>
+		<SccProvider>SAK</SccProvider>
+		<SccAuxPath>SAK</SccAuxPath>
+		<SccLocalPath>SAK</SccLocalPath>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp2.2</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="Commands\Agendador\**" />
+		<Compile Remove="Commands\AplicacaoCliente\**" />
+		<Compile Remove="Commands\Aplicacao\**" />
+		<Compile Remove="Commands\Configuracao\**" />
+		<Compile Remove="Commands\EncerrarTicket\**" />
+		<Compile Remove="Commands\ExecucaoAplicacao\**" />
+		<Compile Remove="Commands\Log\**" />
+		<Compile Remove="Commands\Usuario\NewFolder1\**" />
+		<EmbeddedResource Remove="Commands\Agendador\**" />
+		<EmbeddedResource Remove="Commands\AplicacaoCliente\**" />
+		<EmbeddedResource Remove="Commands\Aplicacao\**" />
+		<EmbeddedResource Remove="Commands\Configuracao\**" />
+		<EmbeddedResource Remove="Commands\EncerrarTicket\**" />
+		<EmbeddedResource Remove="Commands\ExecucaoAplicacao\**" />
+		<EmbeddedResource Remove="Commands\Log\**" />
+		<EmbeddedResource Remove="Commands\Usuario\NewFolder1\**" />
+		<None Remove="Commands\Agendador\**" />
+		<None Remove="Commands\AplicacaoCliente\**" />
+		<None Remove="Commands\Aplicacao\**" />
+		<None Remove="Commands\Configuracao\**" />
+		<None Remove="Commands\EncerrarTicket\**" />
+		<None Remove="Commands\ExecucaoAplicacao\**" />
+		<None Remove="Commands\Log\**" />
+		<None Remove="Commands\Usuario\NewFolder1\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Remove="Entities\Agendador.cs" />
+		<Compile Remove="Entities\Aplicacao.cs" />
+		<Compile Remove="Entities\AplicacaoCliente.cs" />
+		<Compile Remove="Entities\Configuracao.cs" />
+		<Compile Remove="Entities\ExecucaoAplicacao.cs" />
+		<Compile Remove="Entities\Log.cs" />
+		<Compile Remove="Interfaces\Repositories\IRepositoryAgendador.cs" />
+		<Compile Remove="Interfaces\Repositories\IRepositoryAplicacao.cs" />
+		<Compile Remove="Interfaces\Repositories\IRepositoryAplicacaoCliente.cs" />
+		<Compile Remove="Interfaces\Repositories\IRepositoryConfiguracao.cs" />
+		<Compile Remove="Interfaces\Repositories\IRepositoryExecucaoAplicacao.cs" />
+		<Compile Remove="Interfaces\Repositories\IRepositoryLog.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MediatR" Version="8.0.0" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.2.0" />
+		<PackageReference Include="prmToolkit.EnumExtension" Version="2.0.3" />
+		<PackageReference Include="prmToolkit.NotificationPattern" Version="1.1.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="Resources\MSG.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>MSG.resx</DependentUpon>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="Resources\MSG.resx">
+			<Generator>PublicResXFileCodeGenerator</Generator>
+			<LastGenOutput>MSG.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Commands\Funcionario\AdicionarFuncionario\Notifications\" />
+	</ItemGroup>
+
+</Project>

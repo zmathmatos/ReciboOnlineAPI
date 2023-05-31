@@ -1,0 +1,52 @@
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\web.config
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\appsettings.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.deps.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.dev.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Infra.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Infra.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.AssemblyReference.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfoInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CoreCompileInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorTargetAssemblyInfo.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CopyComplete
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.genruntimeconfig.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.Properties.Resources.resources
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.GenerateResource.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\web.config
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\appsettings.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.deps.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.dev.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Infra.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Infra.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.AssemblyReference.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.Properties.Resources.resources
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.GenerateResource.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfoInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CoreCompileInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorTargetAssemblyInfo.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CopyComplete
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Api.genruntimeconfig.cache

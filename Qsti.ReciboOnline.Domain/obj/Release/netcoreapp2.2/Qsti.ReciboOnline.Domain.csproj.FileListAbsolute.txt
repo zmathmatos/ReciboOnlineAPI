@@ -1,0 +1,12 @@
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.deps.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\bin\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.csproj.AssemblyReference.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.Resources.MSG.resources
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.csproj.GenerateResource.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.AssemblyInfoInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.AssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.csproj.CoreCompileInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Domain\obj\Release\netcoreapp2.2\Qsti.ReciboOnline.Domain.pdb

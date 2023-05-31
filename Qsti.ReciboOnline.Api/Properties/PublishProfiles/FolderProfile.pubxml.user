@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Sites\Qsti.ReciboOnline.Api</_PublishTargetUrl>
+    <History>True|2023-04-03T17:08:35.3841653Z;True|2023-03-30T15:16:43.5476307-03:00;True|2023-03-29T14:19:33.2924544-03:00;False|2023-03-29T14:18:49.8260761-03:00;True|2023-03-29T13:58:42.1753221-03:00;True|2023-03-29T11:18:55.1567853-03:00;True|2023-03-28T16:30:03.2698629-03:00;True|2023-03-28T08:50:53.9010296-03:00;True|2023-03-27T16:55:12.7877869-03:00;True|2023-03-27T15:24:39.9310468-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

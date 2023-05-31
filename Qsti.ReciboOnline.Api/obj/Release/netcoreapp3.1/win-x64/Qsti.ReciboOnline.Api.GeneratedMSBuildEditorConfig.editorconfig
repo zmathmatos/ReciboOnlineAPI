@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Qsti.ReciboOnline.Api
+build_property.ProjectDir = C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\

@@ -1,0 +1,102 @@
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\web.config
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.deps.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.dev.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Domain.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Infra.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Domain.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Infra.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.AssemblyReference.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfoInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CoreCompileInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorTargetAssemblyInfo.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CopyComplete
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - Copia\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.genruntimeconfig.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\web.config
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.deps.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.dev.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Domain.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Infra.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Domain.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Infra.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.AssemblyReference.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.Properties.Resources.resources
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.GenerateResource.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfoInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CoreCompileInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorTargetAssemblyInfo.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CopyComplete
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline - 2.2\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.genruntimeconfig.cache
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\web.config
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\appsettings.json
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.deps.json
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.json
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.dev.json
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Domain.dll
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Infra.dll
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Domain.pdb
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Infra.pdb
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.AssemblyReference.cache
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.Properties.Resources.resources
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.GenerateResource.cache
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfoInputs.cache
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfo.cs
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CoreCompileInputs.cache
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cache
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cs
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorTargetAssemblyInfo.cache
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CopyComplete
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+\\192.168.1.4\Transferência\William\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.genruntimeconfig.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\web.config
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.deps.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.runtimeconfig.dev.json
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Domain.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Infra.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Domain.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\bin\Debug\netcoreapp2.2\Qsti.ReciboOnline.Infra.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.AssemblyReference.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.Properties.Resources.resources
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.GenerateResource.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfoInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.AssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CoreCompileInputs.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorAssemblyInfo.cs
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.RazorTargetAssemblyInfo.cache
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.csproj.CopyComplete
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.dll
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.pdb
+C:\_QSTI\_TFS\Qsti.ReciboOnline\Qsti.ReciboOnline.Api\obj\Debug\netcoreapp2.2\Qsti.ReciboOnline.Api.genruntimeconfig.cache
